@@ -29,8 +29,52 @@ SimpleMemo 是一个简单的备忘录应用程序，提供添加、修改、删
 2. 使用主界面中的按钮进行添加、修改、删除和导出操作。
 3. 所有备忘记录将被保存在 `data.txt` 文件中。
 
-## 五、许可
+## 五、运行截图
+<table style="border:0;padding: 0;border-collapse: collapse">
+   <tr>
+      <td>
+         <img style="display: block" src="./截图/1.jpg" alt="">
+      </td>
+      <td>
+         <img style="display: block" src="./截图/2.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img style="display: block" src="./截图/3.jpg" alt="">
+      </td>
+      <td>
+         <img style="display: block" src="./截图/4.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img style="display: block" src="./截图/5.jpg" alt="">
+      </td>
+      <td>
+          <img style="display: block" src="./截图/6.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
+          <img style="display: block" src="./截图/7.jpg" alt="">
+      </td>
+      <td>
+          <img style="display: block" src="./截图/8.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
+          <img style="display: block" src="./截图/9.jpg" alt="">
+      </td>
+      <td>
+          <img style="display: block" src="./截图/10.jpg" alt="">
+      </td>
+   </tr>
+</table>
+
+## 六、许可
 本项目遵循 MIT 许可协议。详细信息请参阅 [LICENSE.lic](LICENSE.lic) 文件。
 
-## 六、致谢
+## 七、致谢
 感谢所有为本项目提供帮助和支持的人。
