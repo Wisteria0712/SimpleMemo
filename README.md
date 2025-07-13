@@ -32,8 +32,8 @@ SimpleMemo 是一个简单的备忘录应用程序，提供添加、修改、删
 ## 五、运行截图
 <table style="border:0;padding: 0;border-collapse: collapse">
    <colgroup>
-      <col style="width: 100%;">
-      <col style="width: 100%;">
+      <col style="width: 50%;">
+      <col style="width: 50%;">
    </colgroup>
    <tr>
       <td>
