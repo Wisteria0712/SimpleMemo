@@ -38,9 +38,8 @@ SimpleMemo 是一个简单的备忘录应用程序，提供添加、修改、删
     box-sizing:border-box;
 }
 .box{
-    display:flex;
-    flex-wrap:wrap;
-    align-content:space-around;
+    display:grid;
+    grid-template-rows:1fr 1fr;
 }
 img{
     width:50%
