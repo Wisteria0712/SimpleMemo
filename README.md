@@ -30,33 +30,47 @@ SimpleMemo 是一个简单的备忘录应用程序，提供添加、修改、删
 3. 所有备忘记录将被保存在 `data.txt` 文件中。
 
 ## 五、运行截图
-<style>
-*{
-    padding:0;
-    margin:0;
-    border:0;
-    box-sizing:border-box;
-}
-.box{
-    display:grid;
-    grid-template-rows:1fr 1fr;
-}
-img{
-    width:50%
-}
-</style>
-<div class="div">
+<table style="border:0;padding: 0;border-collapse: collapse">
+   <tr>
+      <td>
          <img style="display: block" src="./截图/1.jpg" alt="">
+      </td>
+      <td>
          <img style="display: block" src="./截图/2.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
          <img style="display: block" src="./截图/3.jpg" alt="">
+      </td>
+      <td>
          <img style="display: block" src="./截图/4.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
          <img style="display: block" src="./截图/5.jpg" alt="">
+      </td>
+      <td>
           <img style="display: block" src="./截图/6.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
           <img style="display: block" src="./截图/7.jpg" alt="">
+      </td>
+      <td>
           <img style="display: block" src="./截图/8.jpg" alt="">
+      </td>
+   </tr>
+   <tr>
+      <td>
           <img style="display: block" src="./截图/9.jpg" alt="">
-</div>
+      </td>
+   </tr>
+</table>
           <img style="display: block" src="./截图/10.jpg" alt="">
+
 ## 六、许可
 本项目遵循 MIT 许可协议。详细信息请参阅 [LICENSE.lic](LICENSE.lic) 文件。
 
