@@ -56,9 +56,8 @@ img{
           <img style="display: block" src="./截图/7.jpg" alt="">
           <img style="display: block" src="./截图/8.jpg" alt="">
           <img style="display: block" src="./截图/9.jpg" alt="">
-          <img style="display: block" src="./截图/10.jpg" alt="">
 </div>
-
+          <img style="display: block" src="./截图/10.jpg" alt="">
 ## 六、许可
 本项目遵循 MIT 许可协议。详细信息请参阅 [LICENSE.lic](LICENSE.lic) 文件。
 
